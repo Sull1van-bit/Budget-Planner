@@ -90,7 +90,7 @@ budget-planner/
 │   │   ├── components/   # Reusable UI components
 │   │   ├── pages/        # Page components
 │   │   ├── utils/        # Utility functions
-│   │   └── App.jsx       # Main app component
+│   │   └── App.tsx       # Main app component
 │   └── package.json
 ├── server/                # Express backend
 │   ├── controllers/      # Route controllers
